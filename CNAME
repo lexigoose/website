@@ -1,1 +1,4 @@
-www.lexigoose.com
+Type: CNAME
+Name/Host: www
+Value/Points to: lexigoose.com
+TTL: Automatic or default
